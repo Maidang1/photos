@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "updatedAt": "2026-02-11T15:34:49.857Z",
+  "photos": [
+    {
+      "id": "photo_1770824089221_9c943020",
+      "url": "https://raw.githubusercontent.com/Maidang1/photos/main/assets/photos/2026/02/photo_1770824089221_9c943020.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/Maidang1/photos/main/assets/photos/2026/02/photo_1770824089221_9c943020.jpg",
+      "title": "图片",
+      "location": "Unknown",
+      "category": "Uncategorized",
+      "width": 3840,
+      "height": 2160,
+      "aspectRatio": 1.7777777777777777,
+      "visualDescription": "",
+      "filename": "Weixin Image_20260211135721_49_162.jpg",
+      "format": "JPEG",
+      "size": "3.3 MB",
+      "sizeBytes": 3436231,
+      "exif": {},
+      "storage": {
+        "path": "assets/photos/2026/02/photo_1770824089221_9c943020.jpg",
+        "branch": "main"
+      },
+      "createdAt": "2026-02-11T15:34:49.218Z"
+    }
+  ]
+}
