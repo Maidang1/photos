@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.1",
+  "image_id": "sha256:4fcddf364a7214c4ae877429b7d72a64ca327f88e05648c7132f9c9b4851242e",
+  "timestamps": {
+    "created_at": "2026-02-13T13:17:46.238Z",
+    "client_processed_at": "2026-02-13T13:17:46.238Z"
+  },
+  "files": {
+    "original": {
+      "path": "objects/4f/cd/sha256_4fcddf364a7214c4ae877429b7d72a64ca327f88e05648c7132f9c9b4851242e/original.jpg",
+      "mime": "image/jpeg",
+      "bytes": 431362
+    },
+    "thumb": {
+      "path": "objects/4f/cd/sha256_4fcddf364a7214c4ae877429b7d72a64ca327f88e05648c7132f9c9b4851242e/thumb.webp",
+      "mime": "image/webp",
+      "bytes": 61806,
+      "width": 576,
+      "height": 1024
+    }
+  },
+  "exif": {
+    "Orientation": "Horizontal (normal)"
+  },
+  "privacy": {
+    "original_contains_gps": false,
+    "exif_gps_removed": false
+  },
+  "derived": {
+    "dimensions": {
+      "width": 576,
+      "height": 1024
+    },
+    "dominant_color": {
+      "hex": "#888877"
+    },
+    "blur": {
+      "score": 1438.018358469874,
+      "is_blurry": false,
+      "method": "variance_of_laplacian"
+    },
+    "phash": {
+      "algo": "blockhash",
+      "bits": 16,
+      "value": "fe13f803f803f843e1e0c7f0c1f8c1f8c1f9c3f0c0f0c0fec1fe8fcf801f020f"
+    },
+    "ocr": {
+      "status": "ok",
+      "lang": "eng+chi_sim",
+      "summary": ") he |\nV A\nEt §\n=\nny om 1 下\n， I\nRY 3 L\n5 :\nN i\n4 ‘i\n/对 Lo]\n¢ il\nrr A"
+    }
+  }
+}
