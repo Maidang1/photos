@@ -1,0 +1,62 @@
+{
+  "schema_version": "1.1",
+  "image_id": "sha256:c7db359b83fcf43dc8c0dea7325494710ed332a6284e865f56fb6592d5747beb",
+  "timestamps": {
+    "created_at": "2026-02-13T13:05:48.904Z",
+    "client_processed_at": "2026-02-13T13:05:48.904Z"
+  },
+  "files": {
+    "original": {
+      "path": "objects/c7/db/sha256_c7db359b83fcf43dc8c0dea7325494710ed332a6284e865f56fb6592d5747beb/original.jpg",
+      "mime": "image/jpeg",
+      "bytes": 7449501
+    },
+    "thumb": {
+      "path": "objects/c7/db/sha256_c7db359b83fcf43dc8c0dea7325494710ed332a6284e865f56fb6592d5747beb/thumb.webp",
+      "mime": "image/webp",
+      "bytes": 61034,
+      "width": 1024,
+      "height": 683
+    }
+  },
+  "exif": {
+    "Make": "NIKON CORPORATION",
+    "Model": "NIKON Z50_2",
+    "LensModel": "Viltrox AF 35/1.7 Z",
+    "DateTimeOriginal": "2026-02-13T07:23:20.000Z",
+    "ExposureTime": 0.005,
+    "FNumber": 2.8,
+    "ISO": 400,
+    "FocalLength": 35,
+    "Orientation": "Horizontal (normal)",
+    "Software": "Ver.01.03"
+  },
+  "privacy": {
+    "original_contains_gps": false,
+    "exif_gps_removed": false
+  },
+  "derived": {
+    "dimensions": {
+      "width": 1024,
+      "height": 683
+    },
+    "dominant_color": {
+      "hex": "#99bbdd"
+    },
+    "blur": {
+      "score": 2613.2928904116216,
+      "is_blurry": false,
+      "method": "variance_of_laplacian"
+    },
+    "phash": {
+      "algo": "blockhash",
+      "bits": 16,
+      "value": "a3c7a1c781ef01c703c783c2d3d0efd807f803f807f80ff81ff83bb03fe003e0"
+    },
+    "ocr": {
+      "status": "ok",
+      "lang": "eng+chi_sim",
+      "summary": "WX -\nas of i\nS 六\nof W ?\nLB\nf= ARR\nte JN\n\\» 和 LY\nrea 2 AT\neT ae Ty A aay\nCr EN ie -\nPS Ty Oh re. - -—\n: ot 4 - 3 ‘\nyA & —l : WA A\n| 2 ro? - pe.\n3 i.\n(© » —\ni) 了 _—\na"
+    }
+  }
+}
