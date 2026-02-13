@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.1",
+  "image_id": "sha256:beb7e61a478b792237b80012fadd1cc7a975163653836e018368be4366d1c66a",
+  "timestamps": {
+    "created_at": "2026-02-13T12:42:44.398Z",
+    "client_processed_at": "2026-02-13T12:42:44.398Z"
+  },
+  "files": {
+    "original": {
+      "path": "objects/be/b7/sha256_beb7e61a478b792237b80012fadd1cc7a975163653836e018368be4366d1c66a/original.jpg",
+      "mime": "image/jpeg",
+      "bytes": 100088
+    },
+    "thumb": {
+      "path": "objects/be/b7/sha256_beb7e61a478b792237b80012fadd1cc7a975163653836e018368be4366d1c66a/thumb.webp",
+      "mime": "image/webp",
+      "bytes": 74886,
+      "width": 768,
+      "height": 1024
+    }
+  },
+  "privacy": {
+    "original_contains_gps": false,
+    "exif_gps_removed": false
+  },
+  "derived": {
+    "dimensions": {
+      "width": 768,
+      "height": 1024
+    },
+    "dominant_color": {
+      "hex": "#554433"
+    },
+    "blur": {
+      "score": 1677.9976454510356,
+      "is_blurry": false,
+      "method": "variance_of_laplacian"
+    },
+    "phash": {
+      "algo": "blockhash",
+      "bits": 16,
+      "value": "f00238023ffb3ec73b0f3b003f00fff0bf40ffc0bf00bf009ff087f0b070be30"
+    },
+    "ocr": {
+      "status": "ok",
+      "lang": "eng+chi_sim",
+      "summary": "3 - a Wi a 7\nTe i om” A”\nPE\n9 Fl 4 Wi i It 4 } | 7 FE\nVie © i E A 7 7\nF F ¥\n4 ly « yr.\nBBs ” -—\n= — : -\n3 - wo\n¥ 7 3"
+    }
+  }
+}
