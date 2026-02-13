@@ -1,0 +1,62 @@
+{
+  "schema_version": "1.1",
+  "image_id": "sha256:2cf55f435a07ae5ea32c6a203bd40a8ad5b560c0e340e56c25c09a253a43f7fd",
+  "timestamps": {
+    "created_at": "2026-02-13T08:51:45.083Z",
+    "client_processed_at": "2026-02-13T08:51:45.083Z"
+  },
+  "files": {
+    "original": {
+      "path": "objects/2c/f5/sha256_2cf55f435a07ae5ea32c6a203bd40a8ad5b560c0e340e56c25c09a253a43f7fd/original.jpg",
+      "mime": "image/jpeg",
+      "bytes": 4544345
+    },
+    "thumb": {
+      "path": "objects/2c/f5/sha256_2cf55f435a07ae5ea32c6a203bd40a8ad5b560c0e340e56c25c09a253a43f7fd/thumb.webp",
+      "mime": "image/webp",
+      "bytes": 238522,
+      "width": 768,
+      "height": 1024
+    }
+  },
+  "exif": {
+    "Make": "Apple",
+    "Model": "iPhone 14 Pro",
+    "LensModel": "iPhone 14 Pro back triple camera 6.86mm f/1.78",
+    "DateTimeOriginal": "2026-01-11T02:14:04.000Z",
+    "ExposureTime": 0.0004050222762251924,
+    "FNumber": 1.78,
+    "ISO": 80,
+    "FocalLength": 6.86,
+    "Orientation": "Rotate 90 CW",
+    "Software": "18.3.2"
+  },
+  "privacy": {
+    "original_contains_gps": true,
+    "exif_gps_removed": true
+  },
+  "derived": {
+    "dimensions": {
+      "width": 768,
+      "height": 1024
+    },
+    "dominant_color": {
+      "hex": "#111111"
+    },
+    "blur": {
+      "score": 10792.28964913426,
+      "is_blurry": false,
+      "method": "variance_of_laplacian"
+    },
+    "phash": {
+      "algo": "blockhash",
+      "bits": 16,
+      "value": "c000f000ffc0ffffffffc9e000460c470f270d2f1c0f3c1f7cff3c8c3c8c3d00"
+    },
+    "ocr": {
+      "status": "ok",
+      "lang": "eng+chi_sim",
+      "summary": "— SRT\nST re Feo di i “yuh af 10 oe\n- Wy wR fii Ng FOE BE nT\n\\ BUEN EL Howe\nBR ae bo Line Ea\nSo & 5 | > SESE 5 i & isi\noh ll ks En i ea a hms\n二 es : Ey fi & ale\nEe ov Hh WY | Ere\nEa Bie : EL\nRice oo Ij Sy\n= x Ao a yo alah FL oN\nBE po ae oN b: TE NREL\n3 Wy Rr E 7 | Ree\npo ’ Sky. : i bio & 道\n4 A 用 3 lo he &\nE Hoe y Br Ne ll\nERE & TE dole ii\noN 0 il |\nae IN 4 We\nLL i 4 a. 和 % wie REN\nga Bo he\nChE Le x NE Fos\nRRR Ti Cc:\na wae Be Es #2 Te\new A) 四 - sf hs\n(i Let sth -\nAPY Cyl, ghd Nil iE\n人"
+    }
+  }
+}
