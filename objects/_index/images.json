@@ -1,7 +1,12 @@
 {
   "version": "1",
-  "updated_at": "2026-02-18T07:07:13.416Z",
+  "updated_at": "2026-02-18T13:14:51.796Z",
   "items": [
+    {
+      "image_id": "sha256:4c416d5266dbbab9a4a655a75990c71b90d742d7458d56da23a328e6155fcd67",
+      "created_at": "2026-02-18T13:14:32.162Z",
+      "meta_path": "objects/4c/41/sha256_4c416d5266dbbab9a4a655a75990c71b90d742d7458d56da23a328e6155fcd67/meta.json"
+    },
     {
       "image_id": "sha256:74df0356d6576a5d80bca77b7a8f56bfd3418b02b56f4bad4f099472b568a802",
       "created_at": "2026-02-18T07:06:54.612Z",
