@@ -1,0 +1,65 @@
+{
+  "schema_version": "1.1",
+  "image_id": "sha256:e271b0a28b0bcb0ed9ae8125aa327d9d746f250ac48fa0f5a3bfaa964433611c",
+  "original_filename": "IMG_6195.JPG",
+  "timestamps": {
+    "created_at": "2026-02-18T07:06:35.051Z",
+    "client_processed_at": "2026-02-18T07:06:35.051Z"
+  },
+  "files": {
+    "original": {
+      "path": "objects/e2/71/sha256_e271b0a28b0bcb0ed9ae8125aa327d9d746f250ac48fa0f5a3bfaa964433611c/original.jpg",
+      "mime": "image/jpeg",
+      "bytes": 2317267
+    },
+    "thumb": {
+      "path": "objects/e2/71/sha256_e271b0a28b0bcb0ed9ae8125aa327d9d746f250ac48fa0f5a3bfaa964433611c/thumb.webp",
+      "mime": "image/webp",
+      "bytes": 124612,
+      "width": 768,
+      "height": 1024
+    }
+  },
+  "exif": {
+    "Make": "Apple",
+    "Model": "iPhone 17",
+    "LensModel": "iPhone 17 back dual wide camera 5.96mm f/1.6",
+    "DateTimeOriginal": "2026-02-16T11:13:11.000Z",
+    "ExposureTime": 0.04,
+    "FNumber": 1.6,
+    "ISO": 1000,
+    "FocalLength": 5.960000038146973,
+    "Orientation": "Rotate 90 CW",
+    "Software": "26.2",
+    "GPSLatitude": 41.86518888888889,
+    "GPSLongitude": 123.3762361111111
+  },
+  "privacy": {
+    "original_contains_gps": true,
+    "exif_gps_removed": false
+  },
+  "derived": {
+    "dimensions": {
+      "width": 768,
+      "height": 1024
+    },
+    "dominant_color": {
+      "hex": "#000000"
+    },
+    "blur": {
+      "score": 4801.0771140634515,
+      "is_blurry": false,
+      "method": "variance_of_laplacian"
+    },
+    "phash": {
+      "algo": "blockhash",
+      "bits": 16,
+      "value": "c000c000ffb8ffff003c03fc1ffc3cf47ce0b8e060f4ecb97e00fe00ffc0fdc0"
+    },
+    "ocr": {
+      "status": "ok",
+      "lang": "eng+chi_sim",
+      "summary": "所\n所 1\n三/\n/\nof S\n1 flea\n| opsse\"\nva ; :\ni Ae _\na a A 2\n了 ose RZ\n; er i Ae oe. yd\n本 Ac HA a | wan 3\n7 zl Tae 名 5\n+5 et ili Ca ial si We 21 Tae i q\nPt GL LT ~ HEAR» 和\nsoled Ae ew AM Ail Ea\nAgel Eg ¥)\nPA ELT\nAE REE\n这 此 L\n¢ 1 mu\nasta 大 4 2 |\n+ JURE 5 - i A Tea\ng ig |v mE ov\n: a nS ele AiR\n“5 \" ~ leh IRE 天 R jw\nFoe \" i) 301 BL Ay\n_ [ME ] ely NAG\nae ， : a\nir ee  . = 2 ]\nEN Las TRE TK RAE\nSEE ot — i Te Bw"
+    }
+  }
+}
