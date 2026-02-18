@@ -36,7 +36,7 @@
   },
   "privacy": {
     "original_contains_gps": true,
-    "exif_gps_removed": false
+    "exif_gps_removed": true
   },
   "derived": {
     "dimensions": {
@@ -59,7 +59,18 @@
     "ocr": {
       "status": "ok",
       "lang": "eng+chi_sim",
-      "summary": "所\n所 1\n三/\n/\nof S\n1 flea\n| opsse\"\nva ; :\ni Ae _\na a A 2\n了 ose RZ\n; er i Ae oe. yd\n本 Ac HA a | wan 3\n7 zl Tae 名 5\n+5 et ili Ca ial si We 21 Tae i q\nPt GL LT ~ HEAR» 和\nsoled Ae ew AM Ail Ea\nAgel Eg ¥)\nPA ELT\nAE REE\n这 此 L\n¢ 1 mu\nasta 大 4 2 |\n+ JURE 5 - i A Tea\ng ig |v mE ov\n: a nS ele AiR\n“5 \" ~ leh IRE 天 R jw\nFoe \" i) 301 BL Ay\n_ [ME ] ely NAG\nae ， : a\nir ee  . = 2 ]\nEN Las TRE TK RAE\nSEE ot — i Te Bw"
+      "summary": "æ\næ 1\nä¸/\n/\nof S\n1 flea\n| opsse\"\nva ; :\ni Ae _\na a A 2\näº ose RZ\n; er i Ae oe. yd\næ¬ Ac HA a | wan 3\n7 zl Tae å 5\n+5 et ili Ca ial si We 21 Tae i q\nPt GL LT ~ HEARÂ» å\nsoled Ae ew AM Ail Ea\nAgel Eg Â¥)\nPA ELT\nAE REE\nè¿ æ­¤ L\nÂ¢ 1 mu\nasta å¤§ 4 2 |\n+ JURE 5 - i A Tea\ng ig |v mE ov\n: a nS ele AiR\nâ5 \" ~ leh IRE å¤© R jw\nFoe \" i) 301 BL Ay\n_ [ME ] ely NAG\nae ï¼ : a\nir ee  . = 2 ]\nEN Las TRE TK RAE\nSEE ot â i Te Bw"
+    }
+  },
+  "geo": {
+    "region": {
+      "country": "中国",
+      "province": "辽宁省",
+      "city": "未知城市",
+      "display_name": "辽宁省·未知城市",
+      "cache_key": "CN|辽宁省|未知城市",
+      "source": "nominatim",
+      "resolved_at": "2026-02-18T13:16:52.992Z"
     }
   }
 }
