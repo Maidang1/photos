@@ -1,10 +1,10 @@
 {
-  "schema_version": "1.1",
+  "schema_version": "1.2",
   "image_id": "sha256:a5d1300783ecc1ef7e2355400161a25b864df7b42959abdfdd9dbd5f0a1a56aa",
   "original_filename": "IMG_4509.JPG",
   "timestamps": {
-    "created_at": "2026-02-13T16:33:56.675Z",
-    "client_processed_at": "2026-02-13T16:33:56.675Z"
+    "created_at": "2026-02-20T14:03:37.287Z",
+    "client_processed_at": "2026-02-20T14:03:37.287Z"
   },
   "files": {
     "original": {
@@ -36,6 +36,17 @@
     "original_contains_gps": true,
     "exif_gps_removed": true
   },
+  "geo": {
+    "region": {
+      "country": "中国",
+      "province": "香港省",
+      "city": "未知城市",
+      "display_name": "香港省·未知城市",
+      "cache_key": "CN|香港省|未知城市",
+      "source": "nominatim",
+      "resolved_at": "2026-02-20T14:03:29.333Z"
+    }
+  },
   "derived": {
     "dimensions": {
       "width": 768,
@@ -59,5 +70,50 @@
       "lang": "eng+chi_sim",
       "summary": "i —\n.— A\nrE\n= \\\nhe\nZL ir ==\ny iis Sie ea\ntd = ERE\n= fl ——— a\net BA : =| (人\nSURE lr B=\nNe OR 一 TE = ee\nEE > a iE — ae] nes\nSia ~ B=\na Qn ae BLS at oy\n四 FIR 加 用 +i\nrte pr 1 == a\n2 {jim I =EA VR So\nbs ie Nel B & Fed ess oy\n= weg FB <q J EN\nle MR gE uu WP sl :\na 下 LL | 4 BG £\ntt x s =| i N( : 人\ngi ly <= No aN\nPRE GH 0 ame A\nBae fils b FN my ee\nA Nem 二 | 2 HINES \\\nBe = 8 | Ted\nol 7 EEE INE 5 i SEN i\nFAS Nien ie gl HR\nBae yf 5. 7 a IR UE ox : /\na a —— iki 7 £144 hel 1 al NA\nSE SRE — R= I / ETAT m\nwrt —— Se WA\nPR Re Wy i"
     }
-  }
+  },
+  "processing": {
+    "summary": {
+      "total_ms": 10497,
+      "concurrency_profile": "adaptive:4w:2ocr",
+      "stage_durations": [
+        {
+          "stage_id": "hash",
+          "duration_ms": 172
+        },
+        {
+          "stage_id": "thumbnail",
+          "duration_ms": 236
+        },
+        {
+          "stage_id": "exif",
+          "duration_ms": 344
+        },
+        {
+          "stage_id": "ocr",
+          "duration_ms": 9744
+        },
+        {
+          "stage_id": "phash",
+          "duration_ms": 9743
+        },
+        {
+          "stage_id": "color",
+          "duration_ms": 9743
+        },
+        {
+          "stage_id": "blur",
+          "duration_ms": 9742
+        },
+        {
+          "stage_id": "region",
+          "duration_ms": 9745
+        },
+        {
+          "stage_id": "privacy",
+          "duration_ms": 0
+        }
+      ]
+    }
+  },
+  "description": ""
 }
