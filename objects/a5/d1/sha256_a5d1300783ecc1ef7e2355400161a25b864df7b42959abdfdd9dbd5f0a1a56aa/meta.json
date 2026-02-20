@@ -3,8 +3,8 @@
   "image_id": "sha256:a5d1300783ecc1ef7e2355400161a25b864df7b42959abdfdd9dbd5f0a1a56aa",
   "original_filename": "IMG_4509.JPG",
   "timestamps": {
-    "created_at": "2026-02-20T14:03:37.287Z",
-    "client_processed_at": "2026-02-20T14:03:37.287Z"
+    "created_at": "2026-02-20T14:11:00.941Z",
+    "client_processed_at": "2026-02-20T14:11:00.941Z"
   },
   "files": {
     "original": {
@@ -44,7 +44,7 @@
       "display_name": "香港省·未知城市",
       "cache_key": "CN|香港省|未知城市",
       "source": "nominatim",
-      "resolved_at": "2026-02-20T14:03:29.333Z"
+      "resolved_at": "2026-02-20T14:10:56.523Z"
     }
   },
   "derived": {
@@ -73,40 +73,40 @@
   },
   "processing": {
     "summary": {
-      "total_ms": 10497,
+      "total_ms": 5143,
       "concurrency_profile": "adaptive:4w:2ocr",
       "stage_durations": [
         {
           "stage_id": "hash",
-          "duration_ms": 172
+          "duration_ms": 160
         },
         {
           "stage_id": "thumbnail",
-          "duration_ms": 236
+          "duration_ms": 231
         },
         {
           "stage_id": "exif",
-          "duration_ms": 344
+          "duration_ms": 329
         },
         {
           "stage_id": "ocr",
-          "duration_ms": 9744
+          "duration_ms": 4423
         },
         {
           "stage_id": "phash",
-          "duration_ms": 9743
+          "duration_ms": 4422
         },
         {
           "stage_id": "color",
-          "duration_ms": 9743
+          "duration_ms": 4422
         },
         {
           "stage_id": "blur",
-          "duration_ms": 9742
+          "duration_ms": 4421
         },
         {
           "stage_id": "region",
-          "duration_ms": 9745
+          "duration_ms": 4423
         },
         {
           "stage_id": "privacy",
