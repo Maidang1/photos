@@ -1,10 +1,10 @@
 {
-  "schema_version": "1.1",
+  "schema_version": "1.2",
   "image_id": "sha256:e271b0a28b0bcb0ed9ae8125aa327d9d746f250ac48fa0f5a3bfaa964433611c",
   "original_filename": "IMG_6195.JPG",
   "timestamps": {
-    "created_at": "2026-02-18T07:06:35.051Z",
-    "client_processed_at": "2026-02-18T07:06:35.051Z"
+    "created_at": "2026-02-20T13:31:34.969Z",
+    "client_processed_at": "2026-02-20T13:31:34.969Z"
   },
   "files": {
     "original": {
@@ -30,13 +30,22 @@
     "ISO": 1000,
     "FocalLength": 5.960000038146973,
     "Orientation": "Rotate 90 CW",
-    "Software": "26.2",
-    "GPSLatitude": 41.86518888888889,
-    "GPSLongitude": 123.3762361111111
+    "Software": "26.2"
   },
   "privacy": {
     "original_contains_gps": true,
     "exif_gps_removed": true
+  },
+  "geo": {
+    "region": {
+      "country": "中国",
+      "province": "辽宁省",
+      "city": "未知城市",
+      "display_name": "辽宁省·未知城市",
+      "cache_key": "CN|辽宁省|未知城市",
+      "source": "nominatim",
+      "resolved_at": "2026-02-20T13:31:31.987Z"
+    }
   },
   "derived": {
     "dimensions": {
@@ -59,18 +68,52 @@
     "ocr": {
       "status": "ok",
       "lang": "eng+chi_sim",
-      "summary": "Ã¦ÂÂ\nÃ¦ÂÂ 1\nÃ¤Â¸Â/\n/\nof S\n1 flea\n| opsse\"\nva ; :\ni Ae _\na a A 2\nÃ¤ÂºÂ ose RZ\n; er i Ae oe. yd\nÃ¦ÂÂ¬ Ac HA a | wan 3\n7 zl Tae Ã¥ÂÂ 5\n+5 et ili Ca ial si We 21 Tae i q\nPt GL LT ~ HEARÃÂ» Ã¥ÂÂ\nsoled Ae ew AM Ail Ea\nAgel Eg ÃÂ¥)\nPA ELT\nAE REE\nÃ¨Â¿Â Ã¦Â­Â¤ L\nÃÂ¢ 1 mu\nasta Ã¥Â¤Â§ 4 2 |\n+ JURE 5 - i A Tea\ng ig |v mE ov\n: a nS ele AiR\nÃ¢ÂÂ5 \" ~ leh IRE Ã¥Â¤Â© R jw\nFoe \" i) 301 BL Ay\n_ [ME ] ely NAG\nae Ã¯Â¼Â : a\nir ee  . = 2 ]\nEN Las TRE TK RAE\nSEE ot Ã¢ÂÂ i Te Bw"
+      "summary": "所\n所 1\n三/\n/\nof S\n1 flea\n| opsse\"\nva ; :\ni Ae _\na a A 2\n了 ose RZ\n; er i Ae oe. yd\n本 Ac HA a | wan 3\n7 zl Tae 名 5\n+5 et ili Ca ial si We 21 Tae i q\nPt GL LT ~ HEAR» 和\nsoled Ae ew AM Ail Ea\nAgel Eg ¥)\nPA ELT\nAE REE\n这 此 L\n¢ 1 mu\nasta 大 4 2 |\n+ JURE 5 - i A Tea\ng ig |v mE ov\n: a nS ele AiR\n“5 \" ~ leh IRE 天 R jw\nFoe \" i) 301 BL Ay\n_ [ME ] ely NAG\nae ， : a\nir ee  . = 2 ]\nEN Las TRE TK RAE\nSEE ot — i Te Bw"
     }
   },
-  "geo": {
-    "region": {
-      "country": "中国",
-      "province": "辽宁省",
-      "city": "未知城市",
-      "display_name": "辽宁省·未知城市",
-      "cache_key": "CN|辽宁省|未知城市",
-      "source": "nominatim",
-      "resolved_at": "2026-02-18T13:18:48.729Z"
+  "processing": {
+    "summary": {
+      "total_ms": 3103,
+      "concurrency_profile": "adaptive:4w:2ocr",
+      "stage_durations": [
+        {
+          "stage_id": "hash",
+          "duration_ms": 13
+        },
+        {
+          "stage_id": "thumbnail",
+          "duration_ms": 102
+        },
+        {
+          "stage_id": "exif",
+          "duration_ms": 3
+        },
+        {
+          "stage_id": "ocr",
+          "duration_ms": 2984
+        },
+        {
+          "stage_id": "phash",
+          "duration_ms": 2984
+        },
+        {
+          "stage_id": "color",
+          "duration_ms": 2983
+        },
+        {
+          "stage_id": "blur",
+          "duration_ms": 2983
+        },
+        {
+          "stage_id": "region",
+          "duration_ms": 2984
+        },
+        {
+          "stage_id": "privacy",
+          "duration_ms": 0
+        }
+      ]
     }
-  }
+  },
+  "description": ""
 }
