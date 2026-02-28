@@ -1,0 +1,55 @@
+{
+  "schema_version": "1.1",
+  "image_id": "sha256:e516245759499f9a00cc13c180997403d479e080ab381c962cf23ded1594d984",
+  "original_filename": "dji_export_20260101_photo_0002.HEIC",
+  "timestamps": {
+    "created_at": "2026-02-13T15:57:48.837Z",
+    "client_processed_at": "2026-02-13T15:57:48.837Z"
+  },
+  "files": {
+    "original": {
+      "path": "objects/e5/16/sha256_e516245759499f9a00cc13c180997403d479e080ab381c962cf23ded1594d984/original.heic",
+      "mime": "image/heic",
+      "bytes": 1296369
+    },
+    "thumb": {
+      "path": "objects/e5/16/sha256_e516245759499f9a00cc13c180997403d479e080ab381c962cf23ded1594d984/thumb.webp",
+      "mime": "image/webp",
+      "bytes": 103812,
+      "width": 1024,
+      "height": 576
+    }
+  },
+  "exif": {
+    "Orientation": "Horizontal (normal)"
+  },
+  "privacy": {
+    "original_contains_gps": false,
+    "exif_gps_removed": false
+  },
+  "derived": {
+    "dimensions": {
+      "width": 1024,
+      "height": 576
+    },
+    "dominant_color": {
+      "hex": "#bbcccc"
+    },
+    "blur": {
+      "score": 7961.422021737707,
+      "is_blurry": false,
+      "method": "variance_of_laplacian"
+    },
+    "phash": {
+      "algo": "blockhash",
+      "bits": 16,
+      "value": "3ff000731ce307fc7fff01c01ff05380fefe0cfa0f180702e79f101412bb6379"
+    },
+    "ocr": {
+      "status": "ok",
+      "lang": "eng+chi_sim",
+      "summary": "ee Ca mm =\nae A\nee — A = — —” LT\n257 nm BE Ts\n; my pl se\n4 JI ©sMOPOCKET E\nAm - < <& PS 5 a. ."
+    }
+  },
+  "description": "平潭"
+}

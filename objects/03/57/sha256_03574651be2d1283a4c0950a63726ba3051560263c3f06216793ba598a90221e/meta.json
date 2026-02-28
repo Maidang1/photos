@@ -1,0 +1,58 @@
+{
+  "schema_version": "1.1",
+  "image_id": "sha256:03574651be2d1283a4c0950a63726ba3051560263c3f06216793ba598a90221e",
+  "timestamps": {
+    "created_at": "2026-02-13T13:06:10.406Z",
+    "client_processed_at": "2026-02-13T13:06:10.406Z"
+  },
+  "files": {
+    "original": {
+      "path": "objects/03/57/sha256_03574651be2d1283a4c0950a63726ba3051560263c3f06216793ba598a90221e/original.jpg",
+      "mime": "image/jpeg",
+      "bytes": 1869202
+    },
+    "thumb": {
+      "path": "objects/03/57/sha256_03574651be2d1283a4c0950a63726ba3051560263c3f06216793ba598a90221e/thumb.webp",
+      "mime": "image/webp",
+      "bytes": 25742,
+      "width": 1024,
+      "height": 683
+    }
+  },
+  "exif": {
+    "ExposureTime": 0.005,
+    "FNumber": 3.2,
+    "ISO": 125,
+    "FocalLength": 50,
+    "Orientation": "Horizontal (normal)",
+    "Software": "Polarr Photo Editor"
+  },
+  "privacy": {
+    "original_contains_gps": false,
+    "exif_gps_removed": false
+  },
+  "derived": {
+    "dimensions": {
+      "width": 1024,
+      "height": 683
+    },
+    "dominant_color": {
+      "hex": "#112222"
+    },
+    "blur": {
+      "score": 741.5418650338828,
+      "is_blurry": false,
+      "method": "variance_of_laplacian"
+    },
+    "phash": {
+      "algo": "blockhash",
+      "bits": 16,
+      "value": "cae0c630ef30efb0cf80cfc00fe80ff20ff80ff80ff007e08ff0e3f0ec7048f0"
+    },
+    "ocr": {
+      "status": "ok",
+      "lang": "eng+chi_sim",
+      "summary": "7,\n&\n="
+    }
+  }
+}
