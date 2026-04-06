@@ -1,0 +1,76 @@
+{
+  "schema_version": "1.1",
+  "image_id": "sha256:9d91a01272f5320d665859699dac183ee8bb46638af8c611db89902c1b132354",
+  "original_filename": "IMG_6191.JPG",
+  "timestamps": {
+    "created_at": "2026-02-18T07:06:12.640Z",
+    "client_processed_at": "2026-02-18T07:06:12.640Z"
+  },
+  "files": {
+    "original": {
+      "path": "objects/9d/91/sha256_9d91a01272f5320d665859699dac183ee8bb46638af8c611db89902c1b132354/original.jpg",
+      "mime": "image/jpeg",
+      "bytes": 3081720
+    },
+    "thumb": {
+      "path": "objects/9d/91/sha256_9d91a01272f5320d665859699dac183ee8bb46638af8c611db89902c1b132354/thumb.webp",
+      "mime": "image/webp",
+      "bytes": 190476,
+      "width": 768,
+      "height": 1024
+    }
+  },
+  "exif": {
+    "Make": "Apple",
+    "Model": "iPhone 17",
+    "LensModel": "iPhone 17 back dual wide camera 5.96mm f/1.6",
+    "DateTimeOriginal": "2026-02-16T10:58:54.000Z",
+    "ExposureTime": 0.05,
+    "FNumber": 1.6,
+    "ISO": 400,
+    "FocalLength": 5.960000038146973,
+    "Orientation": "Rotate 90 CW",
+    "Software": "26.2",
+    "GPSLatitude": 41.86510833333333,
+    "GPSLongitude": 123.3763361111111
+  },
+  "privacy": {
+    "original_contains_gps": true,
+    "exif_gps_removed": true
+  },
+  "derived": {
+    "dimensions": {
+      "width": 768,
+      "height": 1024
+    },
+    "dominant_color": {
+      "hex": "#000000"
+    },
+    "blur": {
+      "score": 5435.162071137377,
+      "is_blurry": false,
+      "method": "variance_of_laplacian"
+    },
+    "phash": {
+      "algo": "blockhash",
+      "bits": 16,
+      "value": "67c367c36007479b0091c03c47fdde77fee3fcc01e406ec0fef0ff80ff801c00"
+    },
+    "ocr": {
+      "status": "ok",
+      "lang": "eng+chi_sim",
+      "summary": "Lo\n[Mk\nf I i\n[ a 1]\n[} 1\nÃ¦Â­Â¤ Ã¦Â­Â¤ |\nÃ¤ÂºÂ igi\nwo 1 CET TERRES\n4 : - gi Gp | Tp\nTroe Sn Cod VEN hd oe _ J \"EE. 3 5\ni Foes al ovo I x\nÃ¤ÂºÂ Ea ile = :\nsey ME = i Pr\nj= = .. & oR NS Ye\nn : ==\nI oN oe\n$ NE 5 ON\ni Ive. ae\nEe - y\nSa ae a =\nEe"
+    }
+  },
+  "geo": {
+    "region": {
+      "country": "中国",
+      "province": "辽宁省",
+      "city": "未知城市",
+      "display_name": "辽宁省·未知城市",
+      "cache_key": "CN|辽宁省|未知城市",
+      "source": "nominatim",
+      "resolved_at": "2026-02-18T13:18:47.369Z"
+    }
+  }
+}

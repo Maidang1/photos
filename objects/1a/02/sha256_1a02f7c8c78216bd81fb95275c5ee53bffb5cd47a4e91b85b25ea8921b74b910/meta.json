@@ -1,0 +1,57 @@
+{
+  "schema_version": "1.0",
+  "image_id": "sha256:1a02f7c8c78216bd81fb95275c5ee53bffb5cd47a4e91b85b25ea8921b74b910",
+  "timestamps": {
+    "created_at": "2026-02-13T08:00:02.953Z",
+    "client_processed_at": "2026-02-13T08:00:02.953Z"
+  },
+  "files": {
+    "original": {
+      "path": "objects/1a/02/sha256_1a02f7c8c78216bd81fb95275c5ee53bffb5cd47a4e91b85b25ea8921b74b910/original.jpg",
+      "mime": "image/jpeg",
+      "bytes": 4681032
+    },
+    "thumb": {
+      "path": "objects/1a/02/sha256_1a02f7c8c78216bd81fb95275c5ee53bffb5cd47a4e91b85b25ea8921b74b910/thumb.webp",
+      "mime": "image/webp",
+      "bytes": 329046,
+      "width": 768,
+      "height": 1024
+    }
+  },
+  "exif": {
+    "ExposureTime": 0.005681818181818182,
+    "FNumber": 1.78,
+    "ISO": 50,
+    "FocalLength": 6.86,
+    "Orientation": "Rotate 90 CW"
+  },
+  "privacy": {
+    "original_contains_gps": false,
+    "exif_gps_removed": false
+  },
+  "derived": {
+    "dimensions": {
+      "width": 768,
+      "height": 1024
+    },
+    "dominant_color": {
+      "hex": "#222222"
+    },
+    "blur": {
+      "score": 14692.874308651533,
+      "is_blurry": false,
+      "method": "variance_of_laplacian"
+    },
+    "phash": {
+      "algo": "blockhash",
+      "bits": 16,
+      "value": "9407b807b90fdf83178337c307c31fe207e903e01bef2bcc73c0fbe0fee01e40"
+    },
+    "ocr": {
+      "status": "ok",
+      "lang": "eng+chi_sim",
+      "summary": "cL AL Spe At ET Wer\nGR Wa TB HS hale id he =\nGME IAG | es fh ei SUVs ad\nas IN Wael Hr le\ni yh mins ae Ns 关\nLa wd) alk la Di \\ sig pid\n人 人 Be ia ne Sr med ile re\npre pov. as ¥ ts be i 5h\n| En KG CR =\no : Goce ERA welled Al i Te 7\neel ay Se hl\nfea <3 oa Nl i a oy\nCl gm “Li x / | Ea bo i\nym .二 时 bs [Ne Sl a\nAr ll eR 人 人 ps oat SR be\ni“ Ws i Ga Pale: rn ]\nPE ee 光 Vi © La CR sen A Ji\nTag GE 忆 BOR we © le eI\nited Taal eZ 1:34] pr | as i\nni fk -_ gat al fog Tey\nCz hi ANS AY 上 2 iB\nTo Lis aA GLE Es, 所 了 id! A\na 7 Prat 70% (fk wey\nFee “ay Ey i BE PH CO F PS\nhate hu Be $7705 ae Ll pti rR\nZany =a ee Bes i BRL eis\nES 2 人 (vr he THE CRT\nx TL Ui, 2 ne Nal § 24 ~~\n和 CU SEE 7 Tal ; or\nsr 1 i 220 Noll BA WT Jd\nLE Lhasa EL 7 eo\nLs ar A VIER BL HT Be g\nbn jZ7 Ih % w —\n2 5 ph i of MA E) ! 1\nre a EAL Ite )\nJ ao ht Lr\nbi 9 i 了 vj ERY mt 人\n上 3 TE SEC Ta\n4 TE, EWI Sr. RT nel\npel Bo\nMN"
+    }
+  }
+}
